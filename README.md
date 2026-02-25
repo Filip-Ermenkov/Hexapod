@@ -1,3 +1,3 @@
 # Hexapod
 
-![IMG_20231126_194310](https://github.com/Filip05-TUES/Hexapod/assets/67077900/a8ad948d-3c8a-4215-bf1e-40113794a005)
+<img width="1280" height="720" alt="HEXATRON (2)" src="https://github.com/user-attachments/assets/6c91f6e0-672e-475b-8305-09ad6df3eba1" />
